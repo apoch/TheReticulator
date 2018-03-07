@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Reticulator/bin/Debug
+/Reticulator/obj/Debug
+/.vs/Reticulator/v15
